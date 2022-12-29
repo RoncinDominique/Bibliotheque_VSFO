@@ -1,2 +1,2 @@
 # Bibliotheque_VSFO
-Partage des fichiers de la mdo
+Partage des fichiers de la MDO
